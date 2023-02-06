@@ -2,6 +2,9 @@
 
 # Introduction
 
+> Do you know what is Git? and also know VCS? If not find it before starting piscine.
+These powerful words change your life to be happier, funnier, and more communicative.
+
 # Modules
 ## [Module00](./Modules/Module00.md)
 ## [Module01](./Modules/Module01.md)
