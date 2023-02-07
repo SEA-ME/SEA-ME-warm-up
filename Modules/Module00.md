@@ -1,11 +1,5 @@
 # SEA:ME piscine Module 00
 
-# Contents
-
-# Introduction
-
-# General rules
-
 # Exercises
 ## Exercise 00 : Welcome SEA:ME
 
