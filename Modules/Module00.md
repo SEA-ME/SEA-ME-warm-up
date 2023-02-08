@@ -1,5 +1,12 @@
 # SEA:ME piscine Module 00
 
+# Contents
+
+### [Welcome SEA:ME](#exercise-00--welcome-seame)
+### [QT so cute](#exercise-01--qt-so-cute)
+### [Do you know string?](#exercise-02--do-you-know-string)
+### [Old PhoneBook](#exercise-03--old-phonebook)
+
 # Exercises
 ## Exercise 00 : Welcome SEA:ME
 
@@ -45,6 +52,7 @@
 > How deeply do you know about CPP? Let’s start from the beginning again.
 The first one is just for using string. 
 
+// 수정 -> 프로그램 구현 내역이 아닌 출력만 보고 구현하도록
 - Make the program as follows this:
     1. Use simple string class
         1. To convert UPPER CASE
