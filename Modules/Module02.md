@@ -2,7 +2,17 @@
 
 # Contents
 
-### [Brrrrrng](#exercise-00--brrrrrng)
+### [**EX00.** Orthodox Canonical Form](#exercise-00--orthodox-canonical-form)
+### [**EX01.** It’s racing party time!](#exercise-01--its-racing-party-time)
+### [**EX02.** SuperBooster!](#exercise-02--superbooster)
+### [**EX03.** I want SUPER RacingCar!](#exercise-03--i-want-super-racingcar)
+### [**EX04.** Let’s roll the RacingCar](#exercise-04--lets-roll-the-racingcar)
+### [**EX05.** The car has something to say](#exercise-05--the-car-has-something-to-say)
+### [**EX06.** Accel and Break](#exercise-06--accel-and-break)
+### [**EX07.** Convertor](#exercise-07--convertor)
+### [**EX08.** Who is my real child?](#exercise-08--who-is-my-real-child)
+### [**EX09.** The four fundamental arithmetic operations](#exercise-09--the-four-fundamental-arithmetic-operations)
+
 
 
 # Exercises
