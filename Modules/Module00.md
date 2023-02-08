@@ -19,7 +19,7 @@
     1. Clone repository.
     2. Make your own branch. use your name or nickname or word that your special 
         - This branch is your workspace. And this branch will use when you get the evaluation.
-        - Your branch must be derived ****from the special branch name of swimming.
+        - Your branch must be derived from the special branch name of swimming.
     3. Add a file by your name. In this file, you should introduce yourself. And add a link in the [README.md](http://README.md) file. 
         - Add a link that your branch in the README file.
         - After in your introduction file, you should add a link for each Module.
