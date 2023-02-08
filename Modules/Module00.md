@@ -52,7 +52,6 @@
 > How deeply do you know about CPP? Let’s start from the beginning again.
 The first one is just for using string. 
 
-// 수정 -> 프로그램 구현 내역이 아닌 출력만 보고 구현하도록
 - Make the program as follows this:
     1. Use simple string class
         1. To convert UPPER CASE
