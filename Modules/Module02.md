@@ -13,7 +13,12 @@
 ### [**EX08.** Who is my real child?](#exercise-08--who-is-my-real-child)
 ### [**EX09.** The four fundamental arithmetic operations](#exercise-09--the-four-fundamental-arithmetic-operations)
 
-
+# New rules
+> From now on, all your classes must be designed in the Orthodox Canonical Form. The class would implement with these four required member functions: 
+- Default constructor
+- Copy constructor
+- Copy assignment operator
+- Destructor
 
 # Exercises
 
