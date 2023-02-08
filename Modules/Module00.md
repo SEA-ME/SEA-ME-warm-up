@@ -2,10 +2,10 @@
 
 # Contents
 
-### [Welcome SEA:ME](#exercise-00--welcome-seame)
-### [QT so cute](#exercise-01--qt-so-cute)
-### [Do you know string?](#exercise-02--do-you-know-string)
-### [Old PhoneBook](#exercise-03--old-phonebook)
+### [**EX00.** Welcome SEA:ME](#exercise-00--welcome-seame)
+### [**EX01.** QT so cute](#exercise-01--qt-so-cute)
+### [**EX02.** Do you know string?](#exercise-02--do-you-know-string)
+### [**EX03.** Old PhoneBook](#exercise-03--old-phonebook)
 
 # Exercises
 ## Exercise 00 : Welcome SEA:ME
