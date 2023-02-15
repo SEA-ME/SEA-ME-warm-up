@@ -2,7 +2,7 @@
 
 # Introduction
 
-> Do you know what is Git? and also know VCS? If not find it before starting piscine.
+> Do you know what is Git? and also know VCS? If not find it before starting warm up.
 These powerful words change your life to be happier, funnier, and more communicative.
 
 # General Rules

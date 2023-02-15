@@ -1,4 +1,4 @@
-# SEA:ME piscine Module 00
+# SEA:ME warm up Module 00
 
 # Contents
 
@@ -12,7 +12,7 @@
 
 > Now let’s explore [SEA:ME world](https://github.com/SEA-ME)! You can find everything of SEA:ME!
 
-> First, find one repository for evaluating the piscine projects. This repository is one of the basic starts and It will guide your whole SEA:ME life.
+> First, find one repository for evaluating the warm up projects. This repository is one of the basic starts and It will guide your whole SEA:ME life.
 
 - And follow this guide:
 
@@ -42,7 +42,7 @@
 
 > Now you know what is IDE? Then let’s find out what is QT!
 
-> In the piscine, you should compile with qmake or CMake. So you should know it! But don't find it so deep. At this time, you need only what is QT and how to use it.
+> In the warm up, you should compile with qmake or CMake. So you should know it! But don't find it so deep. At this time, you need only what is QT and how to use it.
 
 <aside>
 💡 Install QT5. Only version 5 is allowed.

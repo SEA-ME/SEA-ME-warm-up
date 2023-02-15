@@ -1,4 +1,4 @@
-# SEA:ME piscine Module 05
+# SEA:ME warm up Module 05
 
 # Contents
 
