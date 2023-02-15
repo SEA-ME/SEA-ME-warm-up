@@ -1,4 +1,4 @@
-# SEA:ME piscine
+# SEA:ME Warm Up
 
 # Introduction
 
