@@ -9,7 +9,7 @@
     3. Clone forked repository
     4. Create a folder inside your cloned repo by the unique id generated as per following rule: 
         - If your full name is Jack Moon (FirstName: Jack, LastName: Moon), then your unique id would be jmoon (first letter of your first name followed by your lastname)
-    5. Create a markup file by the same name as the folder: uniquename.md
+    5. Create a markup file by the same name as the folder: uniquename.md inside the folder
         - If your id is jmoon, then the file would be jmoon.md
     6. Fill in the information about yourself. (Use Template_Student_Bio.md file for reference):
     7. Save the changes.
