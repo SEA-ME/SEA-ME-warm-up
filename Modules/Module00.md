@@ -14,7 +14,7 @@
     6. Fill in the information about yourself. (Use Template_Student_Bio.md file for reference):
     7. Save the changes.
     8. git add, git commit, git push
-    9. Create a merge request (MR) to the original repo in SEA:ME
+    9. Create a merge request (MR) to the MainJuly2023 branch in original repo of SEA:ME
     10. Do you know what you just did?
 
 * Now for every project, remember to do following:
