@@ -70,3 +70,6 @@ The first one is just for using string.
 <aside>
 💡 Try to make good use of the class.
 </aside>
+
+## Evaluation Form
+> Template [Evaluation Form Module00](https://docs.google.com/forms/d/1Yc6eB2DGJJ6QSombdn-WjkZEr3SFGwItgcAcp31EoyA/edit)
