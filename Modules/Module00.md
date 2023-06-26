@@ -20,7 +20,7 @@
 * Now for every project, remember to do following:
   - Fork the main project repo from SEA:ME
   - Work out and save all your work in the forked repo
-  - Once done, provide us the link to your repo in your own [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) profile
+  - Once done, provide us the links to your repo and evaluation form in your own [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) profile
 
 ## Exercise 01 : Don't you wish your framework was Qt like you?
 > Let’s find out what is Qt!
