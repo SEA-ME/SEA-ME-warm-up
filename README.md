@@ -80,6 +80,17 @@ Throughout the workshop, students should be encouraged to communicate with each 
 
 - The 'git commit message' should be understandable to others.
 
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 ### Allowed & Forbidden
 - Include safeguards like #pragma once
 - From Module 02 to Module 05, your classes must be designed in the Orthodox Canonical Form, except when explicitly stated otherwise.
