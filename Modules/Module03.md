@@ -25,4 +25,4 @@ Overall, designing a phonebook Qt application involves creating C++ classes to r
 </aside>
 
 ## Evaluation Form
-> Create your own Google Form using this Template [Evaluation Form Module03](https://docs.google.com/forms/d/e/1FAIpQLSebNI-8ckhxxxqpmZBOhD3CitEvBUnSUPCLCdMgFHfWQUgTAQ/viewform) and provide the link to your form in your own [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) profile . You need to collect feedback from 2 of your peers.
+> Create your own Google Form using this Template [Evaluation Form Module03](https://docs.google.com/forms/d/e/1FAIpQLSebNI-8ckhxxxqpmZBOhD3CitEvBUnSUPCLCdMgFHfWQUgTAQ/viewform) and provide the link to your form in your own [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) profile . You need to collect 2 feedbacks from 2 peers from other than your own team.
