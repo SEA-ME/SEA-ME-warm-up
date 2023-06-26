@@ -72,4 +72,4 @@ The first one is just for using string.
 </aside>
 
 ## Evaluation Form
-> Template [Evaluation Form Module00](https://docs.google.com/forms/d/1Yc6eB2DGJJ6QSombdn-WjkZEr3SFGwItgcAcp31EoyA/edit)
+> Template [Evaluation Form Module00](https://docs.google.com/forms/d/1Yc6eB2DGJJ6QSombdn-WjkZEr3SFGwItgcAcp31EoyA/edit). You need to collect feedback from 2 of your peers.
