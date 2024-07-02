@@ -5,7 +5,7 @@
 > Let’s explore the world of [SEA:ME](https://github.com/SEA-ME)!
 * Follow this:
     1. Do you have a GitHub account? If not, create one.
-    2. Fork [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) from [SEA:ME](https://github.com/SEA-ME).
+    2. Fork [SEA:ME Students](https://github.com/SEA-ME/SEA-ME-Students) from [SEA:ME](https://github.com/SEA-ME). Make sure you see all the branches!
     3. Clone forked repository
     4. Create a folder inside your cloned repo by the unique id generated as per following rule: 
         - If your full name is Jack Moon (FirstName: Jack, LastName: Moon), then your unique id would be jmoon (first letter of your first name followed by your lastname)
@@ -14,7 +14,7 @@
     6. Fill in the information about yourself. (Use Template_Student_Bio.md file for reference):
     7. Save the changes.
     8. git add, git commit, git push
-    9. Create a merge request (MR) to the MainJuly2023 branch in original repo of SEA:ME
+    9. Create a merge request (MR) to the MainJuly2024 branch in original repo of SEA:ME
     10. Do you know what you just did?
 
 * Now for every project, remember to do following:
