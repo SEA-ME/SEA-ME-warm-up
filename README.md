@@ -62,7 +62,7 @@ Throughout the workshop, students should be encouraged to communicate with each 
 
 
 # General Rules
-### You should use Qt5 LTS (open source) with C++17 / C++20
+### You should use the latest Qt LTS (open source / community version) with C++17 / C++20 / C++23
 
 - Compile your code with [qmake](https://doc.qt.io/qt-6/qmake-manual.html) or [CMake](https://cmake.org/)
 - [Ninja](https://javascript.info/ninja-code) is lonely and lonely… If you choose the Ninja way you can not be welcomed by others
